@@ -1,0 +1,20 @@
+{
+	"name": "MiCS-VZ-89TE",
+	"version": "0.1.0",
+	"keywords": ["iaq", "CO2", "VOC", "tVOCs", "sensor", "mics-vz-89te", "MOS sensor", "air quality"],
+	"description": "Core C driver for the MiCS-VZ-89TE IAQ sensor",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/rx422/MiCS-VZ-89TE.git"
+	},
+	"authors":
+	{
+		"name": "rx422",
+		"email": "ad.birnaz@gmail.com",
+		"url": "https://github.com/rx422"
+	},
+	"license": "GPL-3.0",
+	"frameworks": "*",
+	"platforms": "*"
+}
