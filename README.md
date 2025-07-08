@@ -1,7 +1,7 @@
 # 🌫️ MiCS-VZ-89TE – Indoor Air Quality Sensor Driver
 
 [![License: GPL v3](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![PlatformIO Library](https://img.shields.io/badge/PlatformIO-Ready-orange?logo=platformio)](https://platformio.org/lib/show)
+[![PlatformIO Library](https://img.shields.io/badge/PlatformIO-Ready-orange?logo=platformio)](https://platformio.org)
 
 Cross-platform C driver for the **MiCS-VZ-89TE** indoor air quality sensor. Supports VOC (ppb), CO₂ (ppm), raw resistance measurements (Ω), R₀ calibration, and revision information via I²C.
 
